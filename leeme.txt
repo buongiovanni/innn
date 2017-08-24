@@ -1,15 +1,14 @@
 Quisiera destacar:
-	- No conocia la posibilidad de acceder a una API desde Javascript. Nunca antes hice una, aun asÌ, me siento orgulloso por el trabajo realizado, 
-	y por lo aprendido en ella. Y aunque el resuldado no sea el Ûptimo, ni el deseable, me costÛ m·s de 4 horas.
+	- No conoc√≠a la posibilidad de acceder a una API desde Javascript. Nunca antes hice una, aun as√≠, me siento orgulloso por el       	     trabajo realizado, y por lo aprendido en ella. Y aunque el resuldado no sea el √≥ptimo, ni el deseable, me cost√≥ m√°s de 4 	                 horas.
 	
-	- Debido a que no conseguia acceder a ciertos atributos del json, idee una forma de representar el tiempo. Lo ver·s en el cÛdigo.
+	- Debido a que no consegu√≠a acceder a ciertos atributos del json, idee una forma de representar el tiempo. Lo ver√°s en el c√≥digo.
 	
-	- Mencionar, que aÒadÌ un boton "DEFAULT" con unas imagenes predeterminadas, (como boceto del que pretendia hacer).
+	- Mencionar, que a√±ad√≠ un boton "DEFAULT" con unas imagenes predeterminadas, (como boceto del que pretendia hacer).
 	  Ya que el de la consulta de API no he podido tocarlo como quisiera.	  
 
-	- Aunque el proyecto no se encuentre del todo acabado, espero que aparte se puedan valorar muchas otras cosas.
+	- Aunque el proyecto no sea √≥ptimo, espero que aparte se puedan valorar muchas otras cosas.
 
 	- Puede ver el proyecto directamente en: www.magic-wand.esy.es/innn/
 
-	Saludos y gracias por la oportunidad.
+Saludos y gracias por la oportunidad.
 	
