@@ -3,7 +3,7 @@ Quisiera destacar:
 	
 	- Debido a que no conseguía acceder a ciertos atributos del json, idee una forma de representar el tiempo. Lo verás en el código.
 	
-	- Mencionar, que añadí un boton "DEFAULT" con unas imagenes predeterminadas, (como boceto del que pretendia hacer).
+	- Mencionar, que añadí un boton "DEFAULT" con unas imagenes predeterminadas, (como boceto del que pretendía hacer).
 	  Ya que el de la consulta de API no he podido tocarlo como quisiera.	  
 
 	- Aunque el proyecto no sea óptimo, espero que aparte se puedan valorar muchas otras cosas.
