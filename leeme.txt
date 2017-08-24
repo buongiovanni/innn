@@ -7,6 +7,8 @@ Quisiera destacar:
 	  Ya que el de la consulta de API no he podido tocarlo como quisiera.	  
 
 	- Aunque el proyecto no sea óptimo, espero que aparte se puedan valorar muchas otras cosas.
+	
+	- He detectado problemas con la API en dispositivos Iphone, (no hace la consulta). Lo comento por si algún candidato más, ha tenido           el mismo problema.
 
 	- Puede ver el proyecto directamente en: www.magic-wand.esy.es/innn/
 
